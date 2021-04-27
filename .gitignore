@@ -1,0 +1,12 @@
+#results
+results.txt
+
+#logs
+consumer.log
+producer.log
+
+#cache
+__pycache__/
+
+#environment
+env
