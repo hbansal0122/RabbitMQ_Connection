@@ -1,7 +1,7 @@
 # RabbitMQ Connection establishment
 
 ## Description
-This is a assignment for The mobility house. This application is combination of a producer which produces a random meter value and passes that value to broker which in out case is RabbitMQ. RabbitMQ passes this value to consumer which consumes this value and also simulate PV value. After consuming and generating pv value, consumer also output the data in results.txt file.
+This is a assignment. This application is combination of a producer which produces a random meter value and passes that value to broker which in out case is RabbitMQ. RabbitMQ passes this value to consumer which consumes this value and also simulate PV value. After consuming and generating pv value, consumer also output the data in results.txt file.
 
 ## RabbitMQ Installiation steps
 ``` 
